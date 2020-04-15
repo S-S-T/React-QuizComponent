@@ -10,18 +10,12 @@ class Quiz extends React.Component {
         this.state = { quiz_data: 1 }
 
     }
-}
-
-
 
 render() {
     return (
         <div>QUIZ</div>   
-    );
-}
+    )
 
-
-
-
-
+   };
+};
 export default Quiz
