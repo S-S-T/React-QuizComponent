@@ -10,11 +10,11 @@ class Quiz extends React.Component {
         super(props)
         this.state = { quiz_data: 1 }
 
-    
+    }
 
-    render() 
+    render() {
         return (
-        <div>{Quiz}}</div>   
+        <div>{Quiz}</div>   
         )
   }
 
