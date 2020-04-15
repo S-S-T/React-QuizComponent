@@ -14,7 +14,6 @@ class Quiz extends React.Component {
         return (
         <div><div className="QuizQuestion">{quizData.quiz_quesiton[0].instruction_text}</div></div>   
         )
-    }
-    
+    };
 }
 export default Quiz
